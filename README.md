@@ -1,6 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack web applications using Spring Boot + Angular and Next.js<br><br>A Healthcare EHR System with JWT authentication, role-based access, and scalable backend APIs<br><br>QR-based Device & Maintenance Management System for smart lab tracking<br><br>Preparing advanced UI/UX and dashboard experiences for real-world projects<br><br>👯 I’m looking to collaborate on<br><br>Full-stack projects (React / Angular / Next.js + Backend APIs)<br><br>Open-source tools related to healthcare, automation, or campus tech<br><br>Hackathons, startup ideas, and problem-solving based applications<br><br>Projects involving real-time systems, dashboards, or scalable architectures<br><br>🤝 I’m looking for help with<br><br>Advanced system design and backend optimization<br><br>Improving code scalability, security, and performance<br><br>Best practices for production-ready deployments<br><br>Guidance from experienced developers on industry-level architecture<br><br>🌱 I’m currently learning<br><br>System Design & REST API best practices<br><br>Advanced Spring Boot Security & JWT flows<br><br>PostgreSQL optimization and backend performance tuning<br><br>Clean architecture, reusable UI patterns, and DevOps basics<br><br>💬 Ask me about<br><br>Full-stack development (Angular, React, Next.js, Spring Boot)<br><br>REST APIs, JWT authentication & role-based access<br><br>Real-time applications (Socket.io, WebSockets)<br><br>Building academic projects that look industry-grade<br><br>UI/UX improvements for better user experience<br><br>⚡ Fun fact<br><br>I enjoy turning complex backend logic into clean, simple user experiences — and I’m always building something new 🚀
+# 💫 About Me
 
+🔭 Currently working on  
+Building full-stack web applications using Spring Boot, Angular, and Next.js, with a strong focus on scalable backend APIs and modern frontend experiences.  
+Developing a Healthcare EHR System featuring JWT authentication, role-based access control, and real-world architecture.  
+Creating a QR-based Device & Maintenance Management System to enable smart lab tracking and automation.  
+Continuously refining advanced dashboards and UI/UX to deliver industry-grade user experiences.
+
+👯 Looking to collaborate on  
+Full-stack projects using React, Angular, Next.js, and backend APIs.  
+Open-source initiatives in healthcare, automation, and campus technology.  
+Hackathons, startup ideas, and problem-solving driven applications.  
+Systems involving real-time communication, analytics dashboards, and scalable architectures.
+
+🤝 Looking for help with  
+Advanced system design and backend optimization techniques.  
+Improving application security, scalability, and performance.  
+Best practices for production-ready deployments.  
+Mentorship and insights into industry-level software architecture.
+
+🌱 Currently learning  
+System design principles and REST API best practices.  
+Advanced Spring Boot Security and JWT workflows.  
+PostgreSQL optimization and backend performance tuning.  
+Clean architecture, reusable UI patterns, and DevOps fundamentals.
+
+💬 Ask me about  
+Full-stack development with Angular, React, Next.js, and Spring Boot.  
+Designing secure REST APIs with role-based access control.  
+Building real-time applications using Socket.io and WebSockets.  
+Transforming academic projects into industry-ready solutions.  
+Enhancing UI/UX for better usability and engagement.
+
+⚡ Fun fact  
+I love turning complex backend logic into clean, intuitive user experiences — and I’m almost always building something new 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayysameer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-jadhav-a040921b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerpjadhav12@gmail.com) 
