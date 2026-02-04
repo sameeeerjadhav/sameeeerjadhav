@@ -2,7 +2,6 @@
 
 🔭 Currently working on  
 Building full-stack web applications using Spring Boot, Angular, and Next.js, with a strong focus on scalable backend APIs and modern frontend experiences.  
-Developing a Healthcare EHR System featuring JWT authentication, role-based access control, and real-world architecture.  
 Creating a QR-based Device & Maintenance Management System to enable smart lab tracking and automation.  
 Continuously refining advanced dashboards and UI/UX to deliver industry-grade user experiences.
 
@@ -11,25 +10,6 @@ Full-stack projects using React, Angular, Next.js, and backend APIs.
 Open-source initiatives in healthcare, automation, and campus technology.  
 Hackathons, startup ideas, and problem-solving driven applications.  
 Systems involving real-time communication, analytics dashboards, and scalable architectures.
-
-🤝 Looking for help with  
-Advanced system design and backend optimization techniques.  
-Improving application security, scalability, and performance.  
-Best practices for production-ready deployments.  
-Mentorship and insights into industry-level software architecture.
-
-🌱 Currently learning  
-System design principles and REST API best practices.  
-Advanced Spring Boot Security and JWT workflows.  
-PostgreSQL optimization and backend performance tuning.  
-Clean architecture, reusable UI patterns, and DevOps fundamentals.
-
-💬 Ask me about  
-Full-stack development with Angular, React, Next.js, and Spring Boot.  
-Designing secure REST APIs with role-based access control.  
-Building real-time applications using Socket.io and WebSockets.  
-Transforming academic projects into industry-ready solutions.  
-Enhancing UI/UX for better usability and engagement.
 
 ⚡ Fun fact  
 I love turning complex backend logic into clean, intuitive user experiences — and I’m almost always building something new 🚀
