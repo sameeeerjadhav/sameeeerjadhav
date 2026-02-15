@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 🔭 Currently working on  
 Building full-stack web applications using Spring Boot, Angular, and Next.js, with a strong focus on scalable backend APIs and modern frontend experiences.  
