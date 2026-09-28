@@ -219,5 +219,3 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 <a href="https://sameerjadhavportfolio.vercel.app/"><img alt="Portfolio" width="48" src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B6914,100:0d0b00&height=130&section=footer" width="100%" />
