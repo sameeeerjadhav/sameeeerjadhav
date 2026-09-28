@@ -220,15 +220,4 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="icons/bulb.svg" width="18" alt="" /> Freelance · full-stack · cloud-native roles<br/>
-<img src="icons/mail.svg" width="18" alt="" /> sameerpjadhav12@gmail.com<br/>
-<img src="icons/phone.svg" width="18" alt="" /> +91 8788743507<br/>
-<img src="icons/pin.svg" width="18" alt="" /> Jalgaon, Maharashtra, India
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B6914,100:0d0b00&height=130&section=footer" width="100%" />
