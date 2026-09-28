@@ -18,13 +18,17 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
+
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240" alt="coding" />
 
 Full-stack developer from Maharashtra, India. I build Spring Boot and Angular apps, and I am open to internships, collaborations, and freelance work.
 
 - 🎓 B.E. Computer Science, Sanjivani University
 - 💼 Web Dev Executive at Dialogueus Media
 - 💼 Web Dev Intern at Softaid Solutions
+
+<br clear="right" />
 
 ---
 
@@ -69,6 +73,10 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman" />
+</p>
+
 <div align="center">
 
 <picture>
@@ -103,6 +111,10 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 <div align="center">
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%23ffffff&aColor=%23FFD700&bgColor=%230d0b00&borderColor=%238B6914" alt="Dev joke" />
 
 </div>
 
