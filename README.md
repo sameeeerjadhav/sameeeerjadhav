@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+Spring+Boot+%2B+Angular;⚡+Building+Scalable+REST+APIs+%26+Clean+UIs;🔐+JWT+Auth+%7C+RBAC+%7C+Microservices;💡+Turning+Complex+Logic+into+Intuitive+Experiences;🛠️+Always+Shipping+Something+New)](https://github.com/sameeeerjadhav)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;⚡+React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+PostgreSQL;🐳+Docker+%C2%B7+Dokploy+%C2%B7+n8n+%C2%B7+REST+APIs;🔐+JWT+%C2%B7+RBAC+%C2%B7+WebSockets+%C2%B7+System+Design)](https://github.com/sameeeerjadhav)
 
 <br/>
 
@@ -22,11 +22,12 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240" alt="coding" />
 
-Full-stack developer from Maharashtra, India. I build Spring Boot and Angular apps, and I am open to internships, collaborations, and freelance work.
+Full-stack developer from Jalgaon, Maharashtra. I build and deploy production apps with Java, Spring Boot, Node.js, React, Next.js, and Angular.
 
-- 🎓 B.E. Computer Science, Sanjivani University
-- 💼 Web Dev Executive at Dialogueus Media
-- 💼 Web Dev Intern at Softaid Solutions
+- 🎓 B.Tech Computer Science, Sanjivani University, Shirdi · CGPA 8.79
+- 💼 Full Stack Developer Intern at Samparkasetu Softwares
+- 🐳 Docker, Dokploy, and n8n on live systems
+- 👥 Vice President, Web Development Innovation Club
 
 <br clear="right" />
 
@@ -38,19 +39,23 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 
 **⬥ Languages ⬥**
 
-[![Skills](https://skillicons.dev/icons?i=java,ts,js,python,c,cpp,php,html,css&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
-**⬥ Frameworks & Libraries ⬥**
+**⬥ Frontend ⬥**
 
-[![Skills](https://skillicons.dev/icons?i=spring,angular,nextjs,react,nodejs,express,tailwind,flutter,flask&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark&perline=4)](https://skillicons.dev)
 
-**⬥ Databases & Cloud ⬥**
+**⬥ Backend ⬥**
 
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,sqlite,aws,azure,cloudflare,vercel&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=3)](https://skillicons.dev)
 
-**⬥ AI / ML & Tools ⬥**
+**⬥ Databases ⬥**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,gitlab,githubactions,postman,figma,vscode&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4)](https://skillicons.dev)
+
+**⬥ DevOps & Tools ⬥**
+
+[![Skills](https://skillicons.dev/icons?i=docker,vercel,git,github,postman&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -60,12 +65,12 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 
 <div align="center">
 
-<img alt="Full-Stack" src="https://img.shields.io/badge/🥇_Full--Stack_Projects-8B6914?style=for-the-badge" />
-<img alt="JWT and RBAC" src="https://img.shields.io/badge/🥈_JWT_%2B_RBAC-8B6914?style=for-the-badge" />
-<img alt="Razorpay" src="https://img.shields.io/badge/🥉_Razorpay_Payments-8B6914?style=for-the-badge" />
-<img alt="PWA" src="https://img.shields.io/badge/🏅_PWA_Architecture-8B6914?style=for-the-badge" />
-<img alt="Drone AI" src="https://img.shields.io/badge/🏅_Drone_AI_Research-8B6914?style=for-the-badge" />
-<img alt="AI APIs" src="https://img.shields.io/badge/🏅_AI_API_Integration-8B6914?style=for-the-badge" />
+<img alt="Spectra Vision" src="https://img.shields.io/badge/🥇_Spectra_Vision_3rd_Place-8B6914?style=for-the-badge" />
+<img alt="DIPEX" src="https://img.shields.io/badge/🥈_DIPEX_State_Level-8B6914?style=for-the-badge" />
+<img alt="NASSCOM AI" src="https://img.shields.io/badge/🥉_NASSCOM_AI_ASCEND-8B6914?style=for-the-badge" />
+<img alt="Docker" src="https://img.shields.io/badge/🏅_Docker_%26_Dokploy-8B6914?style=for-the-badge" />
+<img alt="n8n" src="https://img.shields.io/badge/🏅_n8n_Automation-8B6914?style=for-the-badge" />
+<img alt="Exam portal" src="https://img.shields.io/badge/🏅_1%2C000%2B_Exam_Users-8B6914?style=for-the-badge" />
 
 </div>
 
@@ -97,12 +102,24 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 
 <div align="center">
 
-| 🏢 Role | 🏛️ Company | 🛠️ Stack | 📋 Highlights |
+| 🏢 Role | 🏛️ Company | 📅 When | 📋 Highlights |
 |---------|-----------|---------|--------------|
-| 💼 Web Dev Executive | Dialogueus Media | React · SQL | Team Lead, UI systems, DB design |
-| 💼 Web Dev Intern | Softaid Solutions | HTML · CSS · JS | Responsive layouts, client sites |
+| 💼 Full Stack Developer Intern | Samparkasetu Softwares | Jun 2026 – Present | Tractor-dealer CRM, n8n, Docker, Dokploy |
+| 💼 Web Development Executive Intern | Dialogues Media | Jun 2025 – Sep 2025 | React UI components, live REST features |
+| 💼 Full Stack Web Developer Intern | HCL Tech | May 2025 – Jul 2025 | Node.js, Express, role-based APIs |
+| 💼 Software Development Intern | Softaid Solutions | Jun 2023 – Jul 2023 | HTML, CSS, JavaScript, SQL, SDLC |
 
 </div>
+
+---
+
+## 🛸 Projects
+
+- **[Samparkasetu CRM](https://samparkasetu.com)** — Subscription CRM for tractor dealers. Next.js, PostgreSQL, Redis, n8n, Gupshup, Docker, and Dokploy.
+- **[AI SQL Workbench (Datalk)](https://datalk.onrender.com/)** — Natural language to SQL with Gemini. React, FastAPI, PostgreSQL. [GitHub](https://github.com/sameeeerjadhav/SQL-Agent)
+- **[Online Exam Portal](https://labxco.cloud/gyanam/exam_portal/index.html)** — Built for 1,000+ concurrent students. Laravel, MySQL, Redis, WebSockets. [GitHub](https://github.com/sameeeerjadhav/online-exam-system)
+- **[QR Device Maintenance](https://github.com/sameeeerjadhav/digital-maintenance-logbook)** — Device tracking with Angular and Spring Boot, and RBAC for Admin, HOD, and Faculty.
+- **[QuickChat](https://quickchat-app-woad.vercel.app/)** — Real-time chat with Node.js, Socket.io, and MongoDB. [GitHub](https://github.com/sameeeerjadhav/quickchat-app)
 
 ---
 
@@ -128,6 +145,7 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-8B6914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1700)](https://instagram.com/okayysameer)
 [![Email](https://img.shields.io/badge/Gmail-Mail%20Me-8B6914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1700)](mailto:sameerpjadhav12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8B6914?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1700)](https://github.com/sameeeerjadhav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B6914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1700)](https://sameerjadhavportfolio.vercel.app/)
 
 </div>
 
@@ -137,9 +155,10 @@ Full-stack developer from Maharashtra, India. I build Spring Boot and Angular ap
 
 ```
 ╭────────────────────────────────────────────────────╮
-│   💡  Open to Internships · Collabs · Freelance    │
+│   💡  Open to full-stack and cloud-native roles    │
 │   📬  sameerpjadhav12@gmail.com                    │
-│   📍  Maharashtra, India                           │
+│   📞  +91 8788743507                               │
+│   📍  Jalgaon, Maharashtra, India                  │
 ╰────────────────────────────────────────────────────╯
 ```
 
