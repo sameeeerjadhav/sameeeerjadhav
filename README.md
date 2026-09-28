@@ -192,11 +192,31 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B6914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1700)](https://linkedin.com/in/sameer-jadhav-a040921b5)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-8B6914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1700)](https://instagram.com/okayysameer)
-[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-8B6914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1700)](mailto:sameerpjadhav12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B6914?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1700)](https://github.com/sameeeerjadhav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B6914?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1700)](https://sameerjadhavportfolio.vercel.app/)
+[![Say hi](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=Click+a+button+below;Say+hi+on+LinkedIn;Email+me+for+freelance+work;Open+the+portfolio)](https://sameerjadhavportfolio.vercel.app/)
+
+<br/>
+
+<a href="https://linkedin.com/in/sameer-jadhav-a040921b5"><img alt="LinkedIn" src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://instagram.com/okayysameer"><img alt="Instagram" src="https://img.shields.io/badge/Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:sameerpjadhav12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/sameeeerjadhav"><img alt="GitHub" src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://sameerjadhavportfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/See_my_work-8B6914?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/sameer-jadhav-a040921b5"><img alt="LinkedIn" width="48" src="https://skillicons.dev/icons?i=linkedin" /></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/okayysameer"><img alt="Instagram" width="48" src="https://skillicons.dev/icons?i=instagram" /></a>
+&nbsp;&nbsp;
+<a href="mailto:sameerpjadhav12@gmail.com"><img alt="Email" width="48" src="https://skillicons.dev/icons?i=gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/sameeeerjadhav"><img alt="GitHub" width="48" src="https://skillicons.dev/icons?i=github" /></a>
+&nbsp;&nbsp;
+<a href="https://sameerjadhavportfolio.vercel.app/"><img alt="Portfolio" width="48" src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
 
