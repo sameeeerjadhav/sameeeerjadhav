@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer+%7C+Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;⚡+React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+PostgreSQL;🐳+Docker+%C2%B7+Dokploy+%C2%B7+n8n+%C2%B7+REST+APIs;🔐+JWT+%C2%B7+RBAC+%C2%B7+WebSockets+%C2%B7+System+Design)](https://github.com/sameeeerjadhav)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+PostgreSQL;Docker+%C2%B7+Dokploy+%C2%B7+n8n+%C2%B7+REST+APIs;JWT+%C2%B7+RBAC+%C2%B7+WebSockets+%C2%B7+System+Design)](https://github.com/sameeeerjadhav)
 
 <br/>
 
@@ -18,23 +18,23 @@
 
 ---
 
-## 🧠 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
+## <img src="icons/brain.svg" width="26" alt="" /> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave" />
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240" alt="coding" />
 
 Full-stack developer from Jalgaon, Maharashtra. I build and deploy production apps with Java, Spring Boot, Node.js, React, Next.js, and Angular.
 
-- 🎓 B.Tech Computer Science, Sanjivani University, Shirdi · CGPA 8.79
-- 💼 Full Stack Developer Intern at Samparkasetu Softwares
-- 🐳 Docker, Dokploy, and n8n on live systems
-- 👥 Vice President, Web Development Innovation Club
-- 🤝 Available for freelance work
+- <img src="icons/cap.svg" width="18" alt="" /> B.Tech Computer Science, Sanjivani University, Shirdi · CGPA 8.79
+- <img src="icons/briefcase.svg" width="18" alt="" /> Full Stack Developer Intern at Samparkasetu Softwares
+- <img src="icons/container.svg" width="18" alt="" /> Docker, Dokploy, and n8n on live systems
+- <img src="icons/users.svg" width="18" alt="" /> Vice President, Web Development Innovation Club
+- <img src="icons/handshake.svg" width="18" alt="" /> Available for freelance work
 
 <br clear="right" />
 
 ---
 
-## 🚀 Tech Stack
+## <img src="icons/rocket.svg" width="26" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -62,22 +62,22 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 
 ---
 
-## 🏅 Medals
+## <img src="icons/medal.svg" width="26" alt="" /> Medals
 
 <div align="center">
 
-<img alt="Spectra Vision" src="https://img.shields.io/badge/🥇_Spectra_Vision_3rd_Place-8B6914?style=for-the-badge" />
-<img alt="DIPEX" src="https://img.shields.io/badge/🥈_DIPEX_State_Level-8B6914?style=for-the-badge" />
-<img alt="NASSCOM AI" src="https://img.shields.io/badge/🥉_NASSCOM_AI_ASCEND-8B6914?style=for-the-badge" />
-<img alt="Docker" src="https://img.shields.io/badge/🏅_Docker_%26_Dokploy-8B6914?style=for-the-badge" />
-<img alt="n8n" src="https://img.shields.io/badge/🏅_n8n_Automation-8B6914?style=for-the-badge" />
-<img alt="Exam portal" src="https://img.shields.io/badge/🏅_1%2C000%2B_Exam_Users-8B6914?style=for-the-badge" />
+<img alt="Spectra Vision" src="https://img.shields.io/badge/Spectra_Vision_3rd_Place-8B6914?style=for-the-badge" />
+<img alt="DIPEX" src="https://img.shields.io/badge/DIPEX_State_Level-8B6914?style=for-the-badge" />
+<img alt="NASSCOM AI" src="https://img.shields.io/badge/NASSCOM_AI_ASCEND-8B6914?style=for-the-badge" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker_%26_Dokploy-8B6914?style=for-the-badge" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n_Automation-8B6914?style=for-the-badge" />
+<img alt="Exam portal" src="https://img.shields.io/badge/1%2C000%2B_Exam_Users-8B6914?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="icons/snake.svg" width="26" alt="" /> Contribution Snake
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman" />
@@ -99,22 +99,22 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 
 ---
 
-## 🏅 Experience & Achievements
+## <img src="icons/medal.svg" width="26" alt="" /> Experience & Achievements
 
 <div align="center">
 
-| 🏢 Role | 🏛️ Company | 📅 When | 📋 Highlights |
+| <img src="icons/briefcase.svg" width="16" alt="" /> Role | <img src="icons/building.svg" width="16" alt="" /> Company | <img src="icons/calendar.svg" width="16" alt="" /> When | <img src="icons/list.svg" width="16" alt="" /> Highlights |
 |---------|-----------|---------|--------------|
-| 💼 Full Stack Developer Intern | Samparkasetu Softwares | Jun 2026 – Present | Tractor-dealer CRM, n8n, Docker, Dokploy |
-| 💼 Web Development Executive Intern | Dialogues Media | Jun 2025 – Sep 2025 | React UI components, live REST features |
-| 💼 Full Stack Web Developer Intern | HCL Tech | May 2025 – Jul 2025 | Node.js, Express, role-based APIs |
-| 💼 Software Development Intern | Softaid Solutions | Jun 2023 – Jul 2023 | HTML, CSS, JavaScript, SQL, SDLC |
+| <img src="icons/briefcase.svg" width="14" alt="" /> Full Stack Developer Intern | Samparkasetu Softwares | Jun 2026 – Present | Tractor-dealer CRM, n8n, Docker, Dokploy |
+| <img src="icons/briefcase.svg" width="14" alt="" /> Web Development Executive Intern | Dialogues Media | Jun 2025 – Sep 2025 | React UI components, live REST features |
+| <img src="icons/briefcase.svg" width="14" alt="" /> Full Stack Web Developer Intern | HCL Tech | May 2025 – Jul 2025 | Node.js, Express, role-based APIs |
+| <img src="icons/briefcase.svg" width="14" alt="" /> Software Development Intern | Softaid Solutions | Jun 2023 – Jul 2023 | HTML, CSS, JavaScript, SQL, SDLC |
 
 </div>
 
 ---
 
-## 🤝 Freelance Clients
+## <img src="icons/handshake.svg" width="26" alt="" /> Freelance Clients
 
 I take freelance projects as well. These are clients from [my portfolio](https://github.com/sameeeerjadhav/my-portfolio).
 
@@ -164,7 +164,7 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 ---
 
-## 🛸 Projects
+## <img src="icons/folder.svg" width="26" alt="" /> Projects
 
 - **[Samparkasetu CRM](https://samparkasetu.com)** — Subscription CRM for tractor dealers. Next.js, PostgreSQL, Redis, n8n, Gupshup, Docker, and Dokploy.
 - **[AI SQL Workbench (Datalk)](https://datalk.onrender.com/)** — Natural language to SQL with Gemini. React, FastAPI, PostgreSQL. [GitHub](https://github.com/sameeeerjadhav/SQL-Agent)
@@ -174,7 +174,7 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 ---
 
-## 💬 Dev Quote of the Day
+## <img src="icons/chat.svg" width="26" alt="" /> Dev Quote of the Day
 
 <div align="center">
 
@@ -188,7 +188,7 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 ---
 
-## 📬 Connect With Me
+## <img src="icons/mail.svg" width="26" alt="" /> Connect With Me
 
 <div align="center">
 
@@ -224,14 +224,10 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 <div align="center">
 
-```
-╭────────────────────────────────────────────────────╮
-│   💡  Freelance · full-stack · cloud-native roles  │
-│   📬  sameerpjadhav12@gmail.com                    │
-│   📞  +91 8788743507                               │
-│   📍  Jalgaon, Maharashtra, India                  │
-╰────────────────────────────────────────────────────╯
-```
+<img src="icons/bulb.svg" width="18" alt="" /> Freelance · full-stack · cloud-native roles<br/>
+<img src="icons/mail.svg" width="18" alt="" /> sameerpjadhav12@gmail.com<br/>
+<img src="icons/phone.svg" width="18" alt="" /> +91 8788743507<br/>
+<img src="icons/pin.svg" width="18" alt="" /> Jalgaon, Maharashtra, India
 
 </div>
 
