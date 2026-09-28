@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b00,40:8B6914,100:FFD700&height=260&section=header&text=Sameer%20Jadhav&fontSize=68&fontColor=ffffff&fontAlignY=42&fontStyle=bold&desc=Full-Stack%20Developer%20%7C%20Spring%20Boot%20·%20Angular%20·%20Next.js%20·%20React&descAlignY=62&descColor=FFF9C4&animation=fadeIn" width="100%" />
+<p align="center">
+  <a href="https://github.com/sameeeerjadhav">
+   <img width="1800" height="600" alt="banner" src="https://i.pinimg.com/originals/6b/d2/1d/6bd21d6d541c056c5ebc23e6cbfd05eb.gif" />
+  </a>
+</p>
 
 <div align="center">
 
