@@ -28,6 +28,7 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 - 💼 Full Stack Developer Intern at Samparkasetu Softwares
 - 🐳 Docker, Dokploy, and n8n on live systems
 - 👥 Vice President, Web Development Innovation Club
+- 🤝 Available for freelance work
 
 <br clear="right" />
 
@@ -113,6 +114,56 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 
 ---
 
+## 🤝 Freelance Clients
+
+I take freelance projects as well. These are clients from [my portfolio](https://github.com/sameeeerjadhav/my-portfolio).
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://portal.labxco.cloud/">
+        <img src="clients/buhler.png" alt="Buhler and Scherler" width="160" />
+      </a>
+      <br/>
+      <b>Bühler + Scherler</b>
+    </td>
+    <td align="center" width="180">
+      <a href="https://kmassociates.in/">
+        <img src="clients/kma.jpg" alt="KM Associates" width="140" />
+      </a>
+      <br/>
+      <b>KM Associates</b>
+    </td>
+    <td align="center" width="180">
+      <a href="https://strandforce.in/">
+        <img src="clients/strandforce.png" alt="Strandforce" width="120" />
+      </a>
+      <br/>
+      <b>Strandforce</b>
+    </td>
+    <td align="center" width="180">
+      <a href="https://gyanamindia.labxco.in/">
+        <img src="clients/glogo.jpeg" alt="Gyanam" width="160" />
+      </a>
+      <br/>
+      <b>Gyanam</b>
+    </td>
+    <td align="center" width="180">
+      <a href="https://swaraaqua.labxco.in/">
+        <img src="clients/sarvam.jpeg" alt="Sarvam Enterprises" width="130" />
+      </a>
+      <br/>
+      <b>Sarvam Enterprises</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛸 Projects
 
 - **[Samparkasetu CRM](https://samparkasetu.com)** — Subscription CRM for tractor dealers. Next.js, PostgreSQL, Redis, n8n, Gupshup, Docker, and Dokploy.
@@ -155,7 +206,7 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 
 ```
 ╭────────────────────────────────────────────────────╮
-│   💡  Open to full-stack and cloud-native roles    │
+│   💡  Freelance · full-stack · cloud-native roles  │
 │   📬  sameerpjadhav12@gmail.com                    │
 │   📞  +91 8788743507                               │
 │   📍  Jalgaon, Maharashtra, India                  │
