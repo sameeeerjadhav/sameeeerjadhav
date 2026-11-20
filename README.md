@@ -77,6 +77,22 @@ Full-stack developer from Jalgaon, Maharashtra. I build and deploy production ap
 
 ---
 
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameeeerjadhav&theme=github_dark" alt="GitHub Stats Card" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=sameeeerjadhav&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak Card" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameeeerjadhav&theme=github_dark" alt="Top Languages Card" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameeeerjadhav&theme=github_dark&utcOffset=5.5" alt="Productive Time Card" />
+
+</div>
+
+---
+
 ## <img src="icons/snake.svg" width="26" alt="" /> Contribution Snake
 
 <p align="center">
