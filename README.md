@@ -190,19 +190,7 @@ I take freelance projects as well. These are clients from [my portfolio](https:/
 
 ---
 
-## <img src="icons/chat.svg" width="26" alt="" /> Dev Quote of the Day
 
-<div align="center">
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%23ffffff&aColor=%23FFD700&bgColor=%230d0b00&borderColor=%238B6914" alt="Dev joke" />
-
-</div>
-
----
 
 ## <img src="icons/mail.svg" width="26" alt="" /> Connect With Me
 
